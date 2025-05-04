@@ -1,0 +1,8 @@
+{
+  "Manages": [
+    "LiDARSmith",
+    "TerrApolate"
+  ],
+  "GlobalSyncEnabled": true,
+  "UpliftOrchestration": true
+}

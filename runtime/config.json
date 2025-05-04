@@ -1,0 +1,11 @@
+{
+  "tick_duration": 100,
+  "grid_size": [
+    512,
+    512
+  ],
+  "simulation_mode": "hybrid",
+  "autosave": true,
+  "output_format": "npy",
+  "export_folder": "data/"
+}
